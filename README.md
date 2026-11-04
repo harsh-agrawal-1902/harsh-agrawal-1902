@@ -2,8 +2,16 @@
 Hi, I'm Harsh!<br><br>🎓 Student | Aspiring Software Developer<br><br>💻 Currently learning Java, Data Structures & Algorithms.<br><br>🌐 Interested in Web Development and Artificial Intelligence.<br><br>🚀 Building projects and improving my programming skills.<br><br>📚 Exploring new technologies and learning something new every day.<br><br>🎯 Goal: Become a skilled AI Engineer .
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theharsh.ag) [![LinkedIn](https://www.linkedin.com/in/harsh-agrawal-15bb89426?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/in/Harsh Agrawal) [![YouTube](https://youtube.com/@comedyheree?si=9zxQicO4qo-qjSaE)](https://youtube.com/@H&A Comedy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agharsh1902@gmail.com) 
+### 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-agrawal-15bb89426" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@H%26A%20Comedy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p> 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
